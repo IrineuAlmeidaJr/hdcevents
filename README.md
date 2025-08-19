@@ -1,7 +1,7 @@
 # Estudo e Projeto do Curso Laravel
 
 Este repositório marca o início da minha jornada com **PHP**.  
-Após alguns anos de experiência com **.NET**, decidi expandir meus conhecimentos e aprender uma nova tecnologia.  
+Após alguns tempo de experiência com **.NET**, decidi expandir meus conhecimentos e aprender uma nova tecnologia.  
 O objetivo é consolidar minhas habilidades como desenvolvedor, explorando conceitos diferentes e ampliando minha visão sobre desenvolvimento backend.  
 
 Para isso, estou seguindo o **Curso Laravel** disponível no YouTube:  
